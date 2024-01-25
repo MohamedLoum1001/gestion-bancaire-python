@@ -1,0 +1,26 @@
+Exercice : 
+Creer un systeme de gestion bancaire qui aura des :
+Des users
+type de users : client et eun admin
+
+*Role du client :
+- Faire un dépot 
+- Retrait
+- Transfert
+- Consulter son solde
+- consulter ses historique pour chaque client
+
+*Role Admin:
+- Creer des comptes
+- Bloquer des comptes
+- Voir les historiques des transactions
+
+*Concepte à utiliser :
+- les Classes
+- Les objets ou instances
+- Encapsulation
+- Les classe abstrait
+- Heritages
+
+*BD = 
+Les Fichiers
