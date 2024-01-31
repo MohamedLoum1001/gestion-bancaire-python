@@ -2,7 +2,19 @@
     {
         "nom": "Mohamed Loum",
         "numero_compte": "1234567",
-        "_solde": 35000.0,
+        "_solde": 43500.0,
         "_historique_transactions": []
+    },
+    {
+        "nom": "Moustapha Sarr",
+        "numero_compte": "123456",
+        "_solde": 3500.0,
+        "_historique_transactions": [
+            {
+                "horodatage": "2024-01-31 12:20:02",
+                "type": "Retrait",
+                "montant": 3000.0
+            }
+        ]
     }
 ]
