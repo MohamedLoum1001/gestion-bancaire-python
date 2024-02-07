@@ -1,26 +1,24 @@
-Exercice : 
+Exercice avec Python: 
 Creer un systeme de gestion bancaire qui aura des :
-Des users
-type de users : client et eun admin
+Des utilisateur comme  : client et eun admin
 
-*Role du client :
+*Role du client est de:
 - Faire un dépot 
-- Retrait
-- Transfert
+- Faire Retrait
+- Faire Transfert
 - Consulter son solde
 - consulter ses historique pour chaque client
 
-*Role Admin:
+*Role Admin est de:
 - Creer des comptes
 - Bloquer des comptes
 - Voir les historiques des transactions
 
-*Concepte à utiliser :
+*Pour la realisation voici les Conceptes à utiliser :
 - les Classes
 - Les objets ou instances
 - Encapsulation
 - Les classe abstrait
 - Heritages
 
-*BD = 
-Les Fichiers
+*Pour la Base de Donnée on utilise les Fichiers
